@@ -1,0 +1,24 @@
+{
+  "name": "circleci-newman-experiment",
+  "version": "1.0.0",
+  "description": "## Description todo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aurelienlair/circleci-newman-experiment.git"
+  },
+  "keywords": [],
+  "author": "Aurélien Lair",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aurelienlair/circleci-newman-experiment/issues"
+  },
+  "homepage": "https://github.com/aurelienlair/circleci-newman-experiment#readme",
+  "dependencies": {
+    "newman": "^5.3.0",
+    "newman-reporter-htmlextra": "^1.22.1"
+  }
+}
