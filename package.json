@@ -4,7 +4,7 @@
   "description": "## Description todo",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "report": "npx newman run https://raw.githubusercontent.com/aurelienlair/musement-apis/main/config/collection.json -r htmlextra"
   },
   "repository": {
     "type": "git",
